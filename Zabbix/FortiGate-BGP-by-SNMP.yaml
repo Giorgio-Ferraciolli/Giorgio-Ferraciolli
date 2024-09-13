@@ -16,7 +16,7 @@ zabbix_export:
         - uuid: 9c3efe855e104e9db8c2ce387e6fc4ec
           name: 'Fortigate  bgp peer discovery'
           type: SNMP_AGENT
-          snmp_oid: 'discovery[{#IP_ADDRESS},SNMPv2-SMI::mib-2.15.3.1.1]'
+          snmp_oid: 'discovery[{#IP_ADDRESS},SNMPv2-SMI::mib-2.15.3.1.7]'
           key: fortigate.bgp.discovery
           delay: 1h
           lifetime: 1d
