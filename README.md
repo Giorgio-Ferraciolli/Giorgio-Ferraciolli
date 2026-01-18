@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Giorgio-Ferraciolli
-- 👀 I’m interested in Data and Monitoring
-- 🌱 I’m currently learning SQL, Zabbix, Data Science
-- 💞️ I’m looking to collaborate on Database Project
+- Templates úteis para Zabbix que encontrei. 
 
 
 <!---
