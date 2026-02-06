@@ -1,4 +1,4 @@
-- Templates úteis para Zabbix que encontrei. 
+- Templates úteis para Zabbix.
 
 
 <!---
