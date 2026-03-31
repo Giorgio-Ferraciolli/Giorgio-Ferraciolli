@@ -1,4 +1,5 @@
 - Templates úteis para Zabbix.
+- Docker compose completo para subir Zabbix 7 com Postgres
 
 
 <!---
